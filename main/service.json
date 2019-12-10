@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "bwtest": false,
+        "key": "key",
+        "server": "rtmp://bvc.live-send.acg.tv/live-bvc/",
+        "use_auth": false
+    },
+    "type": "rtmp_custom"
+}

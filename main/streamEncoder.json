@@ -1,0 +1,6 @@
+{
+    "bitrate": 6000,
+    "keyint_sec": 3,
+    "profile": "main",
+    "target_usage": "balanced"
+}
